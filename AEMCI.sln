@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "AEMCI", "F:\AEEMCI\G_AEEMCI\AEMCI.exe", "{2CEAAE95-0481-453E-B93A-5F294989CA06}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\AEEMCI\G_AEEMCI\AEMCI.exe
+		RemoteMachine = LOSSENI_SANGARE
+		StartingDirectory = F:\AEEMCI\G_AEEMCI
+		Environment = Par défaut
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEAAE95-0481-453E-B93A-5F294989CA06}.Debug|x86.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
